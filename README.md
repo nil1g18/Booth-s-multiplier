@@ -1,4 +1,4 @@
-This is for me, myself, and I to revise FSM designs using SystemVerilog.
+This is for me, myself, and I for revising how to use SystemVerilog.
 
 Result = op1 * op2 
 
