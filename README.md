@@ -17,3 +17,8 @@ Specification (self-set):
 - 'Result' remains until the next 'Request'
 - The inputs op1, op2 does not have to remain after the initial 'Request'
 - Parameterised number of bits
+
+Hierarchy:
+- boothsmult.sv
+  - control.sv
+  - mult.sv
